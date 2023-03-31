@@ -2,6 +2,6 @@
 ## 보존된 아이돌 갤러리 목록
 * [Haruna](idols/Haruna)
 ## 보존된 푸치 프로필 목록
-* [PuchiFirst](etc/puchi/PuchiFirst)
-* [PuchiSecond](etc/puchi/PuchiSecond)
-* [PuchiThird](etc/puchi/PuchiThird)
+* [HarunaHinaChie](etc/puchi/HarunaHinaChie)
+* [MakinoAkoAkiha](etc/puchi/MakinoAkoAkiha)
+* [SaoriFukaKiyomi](etc/puchi/SaoriFukaKiyomi)
